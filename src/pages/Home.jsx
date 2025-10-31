@@ -38,7 +38,7 @@ const Home = () => {
           <h2 className="text-xl font-semibold">Summary</h2>
           <p className="muted mt-2">
             5+ years of experience building microservices, data pipelines, and
-            full-stack apps. Currently at Cvent as Software Engineer 2.
+            full-stack apps. Currently at Cvent as Senior Software Engineer.
             Passionate about backend systems, performance, and maintainable
             code.
           </p>

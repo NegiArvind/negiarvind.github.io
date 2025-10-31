@@ -41,7 +41,7 @@ const Contact = () => (
           </button>
           <a
             className="px-4 py-2 rounded-lg border border-white/5 muted"
-            href="mailto:your.email@example.com"
+            href="mailto:negiarvind229@gmail.com"
           >
             Or email me
           </a>
